@@ -107,7 +107,7 @@ dist
 .vscode
 
 # Env files
-*.env
+# *.env
 
 # Package Lock file
 package-lock.json
