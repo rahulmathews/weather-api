@@ -43,7 +43,7 @@ const router = express.Router({ mergeParams: true });
 
 /**
  * @swagger
- * /api/user/me:
+ * /api/users/me:
  *   get:
  *     tags:
  *       - User
@@ -87,7 +87,7 @@ router.get('/me',
 
 /**
  * @swagger
- * /api/user/me:
+ * /api/users/me:
  *   patch:
  *     tags:
  *       - User
